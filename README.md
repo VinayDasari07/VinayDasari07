@@ -6,7 +6,7 @@
 
 - 🔭 Built a chrome Extension [GetSet Local Storage](https://chrome.google.com/webstore/detail/getset-local-storage/ippidodkgapkblnaegmgjhdflkbonoco)
 
-- 📫 How to reach me **vinay@dasari.07@gmail.com**
+- 📫 How to reach me **vinay.dasari.07@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaydasari07&label=Profile%20views&color=0e75b6&style=flat" alt="vinaydasari07" /> </p>
 
