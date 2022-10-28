@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinaydasari07&show_icons=true&locale=en" alt="vinaydasari07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaydasari07&" alt="vinaydasari07" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaydasari07&" alt="vinaydasari07" /></p> -->
 
 <!--
 **VinayDasari07/VinayDasari07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
