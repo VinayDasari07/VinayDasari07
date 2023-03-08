@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vinay Dasari</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-- 💼 Frontend Developer at [Tata Digital](https://www.tatadigital.com/).
+- 💼 Full Stack Developer.
 
 - 🔭 Built a chrome Extension [GetSet Local Storage](https://chrome.google.com/webstore/detail/getset-local-storage/ippidodkgapkblnaegmgjhdflkbonoco).
 
